@@ -1,0 +1,8 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< com.nasa:apod-explorer >-----------------------
+[INFO] Building apod-explorer 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/3.1.2/maven-surefire-plugin-3.1.2.pom
+Terminate batch job (Y/N)? Terminate batch job (Y/N)? Terminate batch job (Y/N)? 

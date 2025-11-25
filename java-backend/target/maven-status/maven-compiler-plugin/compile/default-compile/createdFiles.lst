@@ -1,0 +1,12 @@
+com\nasa\apod\config\AppConfig.class
+com\nasa\apod\controller\FavoriteController.class
+com\nasa\apod\model\ApodResponse$ApodResponseBuilder.class
+com\nasa\apod\ApodApplication.class
+com\nasa\apod\service\NasaService.class
+com\nasa\apod\controller\HealthController.class
+com\nasa\apod\service\FavoriteService.class
+com\nasa\apod\model\FavoriteApod.class
+com\nasa\apod\config\AppConfig$1.class
+com\nasa\apod\model\FavoriteApod$FavoriteApodBuilder.class
+com\nasa\apod\controller\ApodController.class
+com\nasa\apod\model\ApodResponse.class
